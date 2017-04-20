@@ -1,0 +1,17 @@
+* {
+  font-family:Helvetica, Arial, Trebuchet;
+}
+h1 {
+  color: SeaGreen;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+a {
+  text-decoration: underline;
+  color: green;
+}
